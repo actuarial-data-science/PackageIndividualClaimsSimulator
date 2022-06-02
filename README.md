@@ -1,2 +1,3 @@
-# SynthETIC-claims-simulator
-An application of SynthETIC
+# Individual Claims Simulator
+
+This repository contains the code for the "Individual Claims Generator for Claims Reserving Studies: data simulation.R" by M. Wang and M.V. Wüthrich, available from ...
