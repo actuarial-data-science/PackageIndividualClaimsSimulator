@@ -13,7 +13,7 @@
 #### load packages
 #####################################################################
 
-library(SynthETIC)  
+library(SynthETIC)  # 1.0.0 or higher needed
 library(plyr)
 library(locfit)
 library(dplyr)
