@@ -17,6 +17,8 @@ library(SynthETIC)
 library(plyr)
 library(locfit)
 library(dplyr)
+library(actuar)
+library(tidyr)
 
 ref_claim <- 1          # currency is 1
 time_unit <- 1/12       # we consider monthly claims development
